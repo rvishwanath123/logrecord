@@ -1,0 +1,15 @@
+Project Name :Creating Log Records of a Node.js Application and Debugging the Same Application.
+
+tools used:readline-sync 
+	loadash
+	nodejs
+	vs code
+	node js command prompt
+
+
+as per the requirements we are creating the log record file ,it will print the error in the error.txt file if there are errors occured.
+
+
+thank you,
+regards
+Vishwanath C RF
